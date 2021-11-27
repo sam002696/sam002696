@@ -2,12 +2,12 @@
 #### FULL-STACK WEB DEVELOPER (MERN)
 ![FULL-STACK WEB DEVELOPER (MERN)](https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1488&q=80)
 
-A graduate student from NIT (National Institute of Technology) Durgapur with extreme 
+*A graduate student from NIT (National Institute of Technology) Durgapur with extreme 
 motivation and internship experience. Can speak 3 languages (English, Bengali, Hindi). 
 Through my internship, I was able to experience international industrial working culture 
 which helped me a lot to grow more of a person. I like to complete given task on time to 
 release final moment stress. I aim to see myself as a successful person in future and want to 
-work for my country.
+work for my country*.
 
 Skills: REACT / JS / HTML / CSS
 <h3 align="left">Languages and Tools:</h3>
